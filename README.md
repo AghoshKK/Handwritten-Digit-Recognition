@@ -22,8 +22,7 @@ It also includes a Streamlit-based web app where you can draw a digit and get re
 
 ## How to Run
 
-### 1. Train the Model (optional)
-```bash
+# 1. Train the Model (optional)
 python handwritten_digit_recognition.py
 
 # 2️. Install dependencies
