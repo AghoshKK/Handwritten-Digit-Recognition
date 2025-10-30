@@ -26,10 +26,10 @@ It also includes a Streamlit-based web app where you can draw a digit and get re
 ```bash
 python handwritten_digit_recognition.py
 
-# 2️⃣ Install dependencies
+# 2️. Install dependencies
 pip install -r requirements.txt
 
-# 3️⃣ Run the app
+# 3️. Run the app
 streamlit run app.py
 
 ---
